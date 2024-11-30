@@ -66,6 +66,7 @@ This repository contains solutions to problem set 8 from CS50's Introduction to 
 
 		Name: <your name>
 		Shirtificate created successfully!
+		
  - pdf with t- shirt and your name on it is created in pdf
 
 ### 4. Testing
