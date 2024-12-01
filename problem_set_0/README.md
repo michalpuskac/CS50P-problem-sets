@@ -1,4 +1,4 @@
-# CS50's Introduction to Python Problem Set 1 from michalpuskac
+# CS50's Introduction to Python Problem Set 0 from michalpuskac
 
 >This repository contains a set of beginner-friendly Python exercises designed to reinforce basic programming concepts, string manipulation, and function creation. Each problem includes a small program that prompts the user for input, performs specific transformations or calculations, and outputs the result.
 
