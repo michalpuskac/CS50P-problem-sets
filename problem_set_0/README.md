@@ -128,7 +128,7 @@ or
 
 4. Einstein:
 
-    python einstein.py
+    	python einstein.py
 
 5. Tip Calculator:
 
