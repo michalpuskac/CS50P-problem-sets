@@ -1,4 +1,4 @@
-pi# CS50’s Introduction to Programming with Python (CS50P)
+# CS50’s Introduction to Programming with Python (CS50P)
 ---
 ## Table of Contents
 1. [About CS50P](#about-cs50p)
