@@ -2,7 +2,7 @@
 
 >This repository contains a set of beginner-friendly Python exercises designed to reinforce basic programming concepts, string manipulation, and function creation. Each problem includes a small program that prompts the user for input, performs specific transformations or calculations, and outputs the result.
 
-https://cs50.harvard.edu/python/2022/psets/0/
+[HarvardX - CS50P -> PROBLEM SET 0](https://cs50.harvard.edu/python/2022/psets/0/)
 
 
 ## Table of Contents
@@ -38,6 +38,8 @@ https://cs50.harvard.edu/python/2022/psets/0/
  - **Input**: I love Python
  - **Output**: I...love...Python
 
+---
+
 #### 3. Emoticon Converter "Making Faces"
 **File**: faces.py
 
@@ -49,6 +51,8 @@ https://cs50.harvard.edu/python/2022/psets/0/
 **Input**: Hello :) How are you :(
 **Output**: Hello 🙂 How are you 🙁
 
+---
+
 #### 4. Mass-Energy Converter "Einstein"
 **File**: einstein.py
 
@@ -59,6 +63,8 @@ https://cs50.harvard.edu/python/2022/psets/0/
 *Example*:
  - **Input**: mass = 2 kg
  - **Output**: Equivalent energy (E): 180,000,000,000,000,000 Joules
+
+---
 
 #### 5. Tip Calculator
 **File**: tip.py
